@@ -1,0 +1,4 @@
+# PAM Lab - Privileged Administrator Group
+# Grants sudo privileges to approved members of pam_admins
+
+%pam_admins ALL=(ALL:ALL) ALL

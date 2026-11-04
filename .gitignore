@@ -1,0 +1,24 @@
+# Credentials and secrets
+*.kdbx
+*.key
+*.pem
+*.ppk
+.env
+.env.*
+
+# SSH private keys
+id_rsa
+id_ed25519
+id_ecdsa
+known_hosts
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
